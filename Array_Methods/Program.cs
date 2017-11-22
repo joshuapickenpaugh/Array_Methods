@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Joshua Pickenpaugh
+//Array Methods
+//November 2017
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +14,7 @@ namespace Array_Methods
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
